@@ -11,4 +11,4 @@
 ### Training set consisting of BDE, 205 descriptors, 863 data points, smiles and inchies of the corresponding HVIs.
 
 ## test.xlsx
-### Training set consisting of BDE, 205 descriptors, 288 data points, smiles and inchies of the corresponding HVIs.
+### Test set consisting of BDE, 205 descriptors, 288 data points, smiles and inchies of the corresponding HVIs.
